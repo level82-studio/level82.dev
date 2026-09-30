@@ -4,6 +4,7 @@ The LEVEL82 website, published with GitHub Pages at https://level82.dev (static 
 
 | Path | Page |
 |---|---|
+| `/` | home: LEVEL82, white on navy blue (placeholder) |
 | `leeroy/privacy/` | Leeroy! privacy policy (English, linked from Google Play) |
 | `leeroy/privacy/it/` | Leeroy! privacy policy (Italian) |
 
